@@ -27,4 +27,5 @@ Tenemos Link de referencia mas documentos.Agosto 2024
 
 ## Diseño web con Figma
 -https://www.figma.com/es-la
--![image](https://github.com/user-attachments/assets/31aadc67-0bf0-41e9-80d0-c57b521618ef)
+![image](https://github.com/user-attachments/assets/b1491b5b-06b0-440b-a6da-71d07251c6b3)
+
